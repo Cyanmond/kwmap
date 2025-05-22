@@ -16,7 +16,7 @@ data/
 Thumbs.db
 
 #repomix
-repomix-output.xml
+repomix*
 
 # test
 zzz.*
@@ -26,3 +26,5 @@ app.py
 init_db.py
 static/
 templates/
+
+.gitignore
